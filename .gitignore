@@ -1,0 +1,8 @@
+node_modules
+
+# 忽略node_modules但不忽略node_modules里面的a.js
+/node_modules/*
+!/node_modules/a.js
+test
+test.html
+index.html
